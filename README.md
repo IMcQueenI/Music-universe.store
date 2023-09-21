@@ -1,6 +1,6 @@
 # 🎧 Title
 
-Hello! Introducing our project called Music Universe. This is an online store selling music equipment and accessories.
+Hi! Introducing our project called Music Universe. This is an online store selling music equipment and accessories.
 
 # Authors 👽 👽 👽
 
